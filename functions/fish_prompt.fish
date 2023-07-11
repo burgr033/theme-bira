@@ -20,7 +20,7 @@ function fish_prompt
   set -l cwd (pwd | sed "s:^$HOME:~:")
 
 function _user_host
-  echo -n -s $USER @ $(hostname|cut -d . -f 1)
+  echo -n -s $USER @ (hostname|cut -d . -f 1)
 end
 
   # Output the prompt, left to right
