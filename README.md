@@ -13,7 +13,7 @@
 ## Install
 
 ```fish
-$ omf install https://github.com/cigh033/theme-bira
+$ omf install https://github.com/burgr033/theme-bira
 $ omf theme bira
 ```
 
@@ -33,12 +33,12 @@ $ omf theme bira
 
 # License
 
-[MIT][mit] © [cigh033][author] et [al][contributors]
+[MIT][mit] © [burgr033][author] et [al][contributors]
 
 
 [mit]:            https://opensource.org/licenses/MIT
-[author]:         https://github.com/cigh033
-[contributors]:   https://github.com/cigh033/theme-bira/graphs/contributors
+[author]:         https://github.com/burgr033
+[contributors]:   https://github.com/burgr033/theme-bira/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
